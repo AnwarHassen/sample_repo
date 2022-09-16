@@ -1,2 +1,9 @@
 Sample Text File
 Commit 01
+Commit 02
+Commit 03
+Commit 04
+GIT REPOSITORY
+New Push from VS Code
+Again New Commit
+New Commit From PyCharm
