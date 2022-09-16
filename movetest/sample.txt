@@ -1,2 +1,3 @@
 Sample Text File
 Commit 01
+Commit 02
