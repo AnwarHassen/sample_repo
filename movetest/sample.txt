@@ -7,3 +7,4 @@ GIT REPOSITORY
 New Push from VS Code
 Again New Commit
 New Commit From PyCharm
+Edit from the internet
